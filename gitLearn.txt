@@ -1,0 +1,8 @@
+创建一个新的分支
+git checkout -b newBranch
+push到远端
+git push origin newBranch  
+与远端建立联系
+git branch --set-upstream-to=origin/newBranch
+
+以上三个步奏就是创建一个新分支
